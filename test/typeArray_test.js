@@ -1,6 +1,7 @@
 /**
  * Created by zilong on 2014/7/13.
  */
+/*
 var arrayUtils = require('../src/deprecated/typedArray')
 var assert = require('assert')
 
@@ -44,4 +45,5 @@ describe('Array2d',function(){
 
     })
 })
+*/
 
